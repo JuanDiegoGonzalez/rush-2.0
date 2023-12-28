@@ -1,0 +1,102 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+16.09.2023 13:15,Baltika,Rostov,2,2
+16.09.2023 11:00,Spartak Moscú,Sochi,1,0
+16.09.2023 08:30,Akhmat Grozny,Krasnodar,1,1
+16.09.2023 06:00,CSKA Moscú,Kr. Sovetov,2,2
+15.09.2023 11:00,Dinamo Moscú,Pari NN,1,1
+03.09.2023 12:00,Rostov,Dinamo Moscú,1,2
+03.09.2023 09:30,CSKA Moscú,Zenit,1,1
+03.09.2023 07:15,Lokomotiv Moscú,Baltika,3,2
+03.09.2023 05:00,Orenburg,Sochi,3,0
+02.09.2023 12:00,Krasnodar,Spartak Moscú,2,0
+02.09.2023 09:30,Kr. Sovetov,F. Voronezh,3,0
+02.09.2023 07:15,Pari NN,Rubin Kazan,2,1
+02.09.2023 05:00,Ural,Akhmat Grozny,0,1
+27.08.2023 12:00,Sochi,Lokomotiv Moscú,0,1
+27.08.2023 09:30,Kr. Sovetov,Baltika,2,1
+26.08.2023 12:00,Pari NN,Rostov,1,0
+26.08.2023 11:30,Spartak Moscú,Akhmat Grozny,0,0
+26.08.2023 09:30,Rubin Kazan,Dinamo Moscú,2,2
+26.08.2023 07:00,Zenit,Ural,4,0
+25.08.2023 12:00,F. Voronezh,Krasnodar,0,0
+25.08.2023 09:30,Orenburg,CSKA Moscú,1,1
+20.08.2023 12:00,Akhmat Grozny,Orenburg,4,0
+20.08.2023 11:30,Spartak Moscú,Zenit,1,3
+20.08.2023 09:30,F. Voronezh,Pari NN,2,0
+19.08.2023 12:00,Sochi,Rostov,4,0
+19.08.2023 11:30,Krasnodar,Lokomotiv Moscú,1,1
+19.08.2023 09:30,Baltika,Ural,0,1
+19.08.2023 07:00,Dinamo Moscú,CSKA Moscú,2,1
+18.08.2023 11:30,Rubin Kazan,Kr. Sovetov,2,1
+14.08.2023 11:30,Pari NN,Akhmat Grozny,2,0
+13.08.2023 12:00,CSKA Moscú,Sochi,3,1
+13.08.2023 09:30,Zenit,F. Voronezh,2,0
+13.08.2023 07:00,Dinamo Moscú,Baltika,2,0
+12.08.2023 12:00,Rostov,Rubin Kazan,3,0
+12.08.2023 09:30,Orenburg,Krasnodar,0,2
+12.08.2023 07:00,Lokomotiv Moscú,Kr. Sovetov,1,1
+11.08.2023 10:00,Ural,Spartak Moscú,3,2
+06.08.2023 12:00,Sochi,Akhmat Grozny,1,2
+06.08.2023 11:00,Zenit,Dinamo Moscú,2,3
+06.08.2023 09:30,Baltika,F. Voronezh,2,1
+05.08.2023 12:00,CSKA Moscú,Lokomotiv Moscú,4,1
+05.08.2023 09:30,Orenburg,Ural,0,2
+05.08.2023 09:30,Rubin Kazan,Spartak Moscú,1,4
+05.08.2023 07:00,Kr. Sovetov,Rostov,5,1
+04.08.2023 12:00,Krasnodar,Pari NN,1,0
+31.07.2023 11:30,Spartak Moscú,Baltika,2,1
+30.07.2023 12:00,Akhmat Grozny,CSKA Moscú,2,3
+30.07.2023 12:00,Krasnodar,Sochi,2,0
+30.07.2023 09:30,F. Voronezh,Lokomotiv Moscú,1,4
+30.07.2023 07:00,Rubin Kazan,Orenburg,1,1
+29.07.2023 12:00,Rostov,Zenit,1,1
+29.07.2023 09:30,Ural,Pari NN,0,0
+29.07.2023 07:00,Kr. Sovetov,Dinamo Moscú,3,3
+23.07.2023 12:00,Rostov,F. Voronezh,2,1
+23.07.2023 12:00,Sochi,Baltika,2,0
+23.07.2023 09:30,Spartak Moscú,Orenburg,3,2
+22.07.2023 12:00,Akhmat Grozny,Kr. Sovetov,1,2
+22.07.2023 09:30,Lokomotiv Moscú,Rubin Kazan,2,2
+22.07.2023 07:15,Pari NN,Zenit,0,2
+22.07.2023 05:00,Ural,CSKA Moscú,2,1
+21.07.2023 11:00,Dinamo Moscú,Krasnodar,1,3

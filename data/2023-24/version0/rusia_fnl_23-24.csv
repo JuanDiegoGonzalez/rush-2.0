@@ -1,0 +1,124 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+17.09.2023 00:00,SKA Khabarovsk,Khimki,3,1
+16.09.2023 09:00,Kamaz,Neftekhimik,0,1
+11.09.2023 11:30,Torpedo Moscow,Akron Togliatti,1,0
+11.09.2023 08:30,Arsenal Tula,Khimki,0,2
+10.09.2023 10:00,Alania Vladikavkaz,Tyumen,1,1
+10.09.2023 10:00,Leningradets,Dynamo Makhachkala,1,2
+10.09.2023 05:30,Yenisey,Rodina Moscow,2,2
+10.09.2023 00:00,SKA Khabarovsk,Volgar-Astrakhan,1,1
+09.09.2023 10:00,Neftekhimik,Kuban,2,1
+09.09.2023 09:00,Yaroslavl,Chernomorets Novorossijsk,2,1
+09.09.2023 08:00,Saratov,Kamaz,1,1
+04.09.2023 11:30,Rodina Moscow,Torpedo Moscow,2,0
+04.09.2023 09:00,Tyumen,Arsenal Tula,1,2
+03.09.2023 09:00,Kamaz,Leningradets,1,1
+03.09.2023 07:00,Akron Togliatti,Chernomorets Novorossijsk,0,0
+03.09.2023 06:00,Yaroslavl,Neftekhimik,1,0
+03.09.2023 02:00,SKA Khabarovsk,Dynamo Makhachkala,0,2
+02.09.2023 10:00,Alania Vladikavkaz,Yenisey,2,1
+02.09.2023 10:00,Khimki,Kuban,1,1
+02.09.2023 09:00,Volgar-Astrakhan,Saratov,1,2
+28.08.2023 11:00,Arsenal Tula,Torpedo Moscow,1,1
+27.08.2023 11:00,Chernomorets Novorossijsk,Kamaz,0,0
+27.08.2023 11:00,Dynamo Makhachkala,Yaroslavl,1,1
+27.08.2023 10:00,Neftekhimik,Rodina Moscow,1,4
+27.08.2023 09:00,Akron Togliatti,Tyumen,1,2
+27.08.2023 06:00,Yenisey,SKA Khabarovsk,4,2
+26.08.2023 10:30,Kuban,Alania Vladikavkaz,0,1
+26.08.2023 09:30,Saratov,Leningradets,0,1
+26.08.2023 09:00,Khimki,Volgar-Astrakhan,0,0
+21.08.2023 11:24,Torpedo Moscow,Neftekhimik,2,1
+21.08.2023 09:00,Kamaz,Arsenal Tula,0,0
+20.08.2023 10:00,Leningradets,Akron Togliatti,1,1
+20.08.2023 10:00,Rodina Moscow,Alania Vladikavkaz,1,2
+20.08.2023 09:00,Tyumen,Dynamo Makhachkala,0,0
+20.08.2023 02:00,SKA Khabarovsk,Chernomorets Novorossijsk,0,0
+19.08.2023 10:00,Volgar-Astrakhan,Yenisey,2,2
+19.08.2023 09:30,Saratov,Khimki,1,0
+19.08.2023 09:00,Yaroslavl,Kuban,1,0
+14.08.2023 09:00,Alania Vladikavkaz,Torpedo Moscow,2,0
+13.08.2023 10:00,Volgar-Astrakhan,Dynamo Makhachkala,0,1
+13.08.2023 09:00,Kamaz,Tyumen,2,1
+13.08.2023 06:00,Yenisey,Neftekhimik,2,0
+13.08.2023 02:00,SKA Khabarovsk,Akron Togliatti,1,0
+12.08.2023 11:30,Chernomorets Novorossijsk,Arsenal Tula,2,1
+12.08.2023 10:30,Kuban,Saratov,0,0
+12.08.2023 09:00,Khimki,Rodina Moscow,2,0
+12.08.2023 08:00,Leningradets,Yaroslavl,0,1
+07.08.2023 11:00,Arsenal Tula,Yenisey,2,0
+06.08.2023 11:00,Dynamo Makhachkala,Kamaz,0,1
+06.08.2023 10:30,Kuban,Volgar-Astrakhan,2,0
+06.08.2023 10:00,Neftekhimik,Chernomorets Novorossijsk,1,1
+06.08.2023 10:00,Rodina Moscow,SKA Khabarovsk,1,1
+06.08.2023 08:00,Akron Togliatti,Alania Vladikavkaz,1,0
+05.08.2023 10:00,Torpedo Moscow,Saratov,0,1
+05.08.2023 09:00,Tyumen,Leningradets,4,0
+05.08.2023 08:00,Yaroslavl,Khimki,1,2
+31.07.2023 09:00,Alania Vladikavkaz,Kamaz,2,0
+30.07.2023 11:00,Dynamo Makhachkala,Kuban,2,0
+30.07.2023 10:00,Leningradets,Rodina Moscow,1,1
+30.07.2023 10:00,Neftekhimik,Khimki,0,1
+30.07.2023 09:00,Tyumen,Yenisey,1,0
+30.07.2023 08:00,Torpedo Moscow,Chernomorets Novorossijsk,1,1
+30.07.2023 08:00,Yaroslavl,Volgar-Astrakhan,2,1
+29.07.2023 10:00,Saratov,SKA Khabarovsk,1,0
+28.07.2023 12:00,Akron Togliatti,Arsenal Tula,5,1
+24.07.2023 11:30,Khimki,Torpedo Moscow,1,2
+24.07.2023 10:00,Alania Vladikavkaz,Neftekhimik,1,0
+23.07.2023 11:00,Arsenal Tula,Dynamo Makhachkala,0,0
+23.07.2023 11:00,Chernomorets Novorossijsk,Rodina Moscow,0,0
+23.07.2023 10:00,Saratov,Yaroslavl,3,2
+23.07.2023 10:00,Volgar-Astrakhan,Akron Togliatti,1,4
+23.07.2023 09:00,Kamaz,Kuban,2,0
+23.07.2023 04:00,Yenisey,Leningradets,0,1
+23.07.2023 02:30,SKA Khabarovsk,Tyumen,2,0
+17.07.2023 11:30,Chernomorets Novorossijsk,Alania Vladikavkaz,1,1
+17.07.2023 09:00,Tyumen,Khimki,3,1
+16.07.2023 10:00,Arsenal Tula,Leningradets,0,0
+16.07.2023 10:00,Kuban,Yenisey,1,2
+16.07.2023 10:00,Neftekhimik,Volgar-Astrakhan,2,1
+16.07.2023 10:00,Rodina Moscow,Saratov,4,0
+16.07.2023 09:00,Akron Togliatti,Kamaz,2,0
+16.07.2023 02:00,SKA Khabarovsk,Yaroslavl,2,0
+15.07.2023 11:30,Torpedo Moscow,Dynamo Makhachkala,2,0

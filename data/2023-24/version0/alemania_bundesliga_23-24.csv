@@ -1,0 +1,84 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+23.09.2023 11:30,Werder Bremen,Colonia,2,1
+23.09.2023 08:30,Augsburgo,Mainz,2,1
+23.09.2023 08:30,Bayern Múnich,Bochum,7,0
+23.09.2023 08:30,Borussia Dortmund,Wolfsburgo,1,0
+23.09.2023 08:30,Borussia M'gladbach,RB Leipzig,0,1
+23.09.2023 08:30,Unión Berlín,Hoffenheim,0,2
+22.09.2023 13:30,Stuttgart,Darmstadt,3,1
+17.09.2023 10:30,Darmstadt,Borussia M'gladbach,3,3
+17.09.2023 08:30,Heidenheim,Werder Bremen,4,2
+16.09.2023 11:30,Bochum,Eintracht Frankfurt,1,1
+16.09.2023 08:30,Colonia,Hoffenheim,1,3
+16.09.2023 08:30,Friburgo,Borussia Dortmund,2,4
+16.09.2023 08:30,Mainz,Stuttgart,1,3
+16.09.2023 08:30,RB Leipzig,Augsburgo,3,0
+16.09.2023 08:30,Wolfsburgo,Union Berlín,2,1
+15.09.2023 13:30,Bayern Múnich,Bayer Leverkusen,2,2
+03.09.2023 10:30,Union Berlín,RB Leipzig,0,3
+03.09.2023 08:30,Eintracht Frankfurt,Colonia,1,1
+02.09.2023 11:30,Borussia M'gladbach,Bayern Múnich,1,2
+02.09.2023 08:30,Augsburgo,Bochum,2,2
+02.09.2023 08:30,Bayer Leverkusen,Darmstadt,5,1
+02.09.2023 08:30,Hoffenheim,Wolfsburgo,3,1
+02.09.2023 08:30,Stuttgart,Friburgo,5,0
+02.09.2023 08:30,Werder Bremen,Mainz,4,0
+01.09.2023 13:30,Borussia Dortmund,Heidenheim,2,2
+27.08.2023 10:30,Bayern Múnich,Augsburgo,3,1
+27.08.2023 08:30,Mainz,Eintracht Frankfurt,1,1
+26.08.2023 11:30,Borussia M'gladbach,Bayer Leverkusen,0,3
+26.08.2023 08:30,Bochum,Borussia Dortmund,1,1
+26.08.2023 08:30,Colonia,Wolfsburgo,1,2
+26.08.2023 08:30,Darmstadt,Union Berlín,1,4
+26.08.2023 08:30,Friburgo,Werder Bremen,1,0
+26.08.2023 08:30,Heidenheim,Hoffenheim,2,3
+25.08.2023 13:30,RB Leipzig,Stuttgart,5,1
+20.08.2023 10:30,Eintracht Frankfurt,Darmstadt,1,0
+20.08.2023 08:30,Union Berlín,Mainz,4,1
+19.08.2023 11:30,Borussia Dortmund,Colonia,1,0
+19.08.2023 08:30,Augsburgo,Borussia M'gladbach,4,4
+19.08.2023 08:30,Bayer Leverkusen,RB Leipzig,3,2
+19.08.2023 08:30,Hoffenheim,Friburgo,1,2
+19.08.2023 08:30,Stuttgart,Bochum,5,0
+19.08.2023 08:30,Wolfsburgo,Heidenheim,2,0
+18.08.2023 13:30,Werder Bremen,Bayern Múnich,0,4

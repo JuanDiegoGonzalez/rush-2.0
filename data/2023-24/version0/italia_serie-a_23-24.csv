@@ -1,0 +1,86 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+23.09.2023 13:45,Lazio,Monza,1,1
+23.09.2023 11:00,Sassuolo,Juventus,4,2
+23.09.2023 08:00,AC Milan,Verona,1,0
+22.09.2023 13:45,Lecce,Genoa,1,0
+22.09.2023 11:30,Salernitana,Frosinone,1,1
+18.09.2023 13:45,Verona,Bolonia,0,0
+18.09.2023 11:30,Salernitana,Torino,0,3
+17.09.2023 13:45,Roma,Empoli,7,0
+17.09.2023 11:00,Fiorentina,Atalanta,3,2
+17.09.2023 08:00,Frosinone,Sassuolo,4,2
+17.09.2023 08:00,Monza,Lecce,1,1
+17.09.2023 05:30,Cagliari,Udinese,0,0
+16.09.2023 13:45,Genoa,Nápoles,2,2
+16.09.2023 11:00,Inter,AC Milan,5,1
+16.09.2023 08:00,Juventus,Lazio,3,1
+03.09.2023 13:45,Empoli,Juventus,0,2
+03.09.2023 13:45,Lecce,Salernitana,2,0
+03.09.2023 11:30,Inter,Fiorentina,4,0
+03.09.2023 11:30,Torino,Genoa,1,0
+02.09.2023 13:45,Atalanta,Monza,3,0
+02.09.2023 13:45,Nápoles,Lazio,1,2
+02.09.2023 11:30,Bolonia,Cagliari,2,1
+02.09.2023 11:30,Udinese,Frosinone,0,0
+01.09.2023 13:45,Roma,AC Milan,1,2
+01.09.2023 11:30,Sassuolo,Verona,3,1
+28.08.2023 13:45,Cagliari,Inter,0,2
+28.08.2023 11:30,Salernitana,Udinese,1,1
+27.08.2023 13:45,Lazio,Genoa,0,1
+27.08.2023 13:45,Nápoles,Sassuolo,2,0
+27.08.2023 11:30,Fiorentina,Lecce,2,2
+27.08.2023 11:30,Juventus,Bolonia,1,1
+26.08.2023 13:45,AC Milan,Torino,4,1
+26.08.2023 13:45,Verona,Roma,2,1
+26.08.2023 11:30,Frosinone,Atalanta,2,1
+26.08.2023 11:30,Monza,Empoli,2,0
+21.08.2023 13:45,Bolonia,AC Milan,0,2
+21.08.2023 11:30,Torino,Cagliari,0,0
+20.08.2023 13:45,Lecce,Lazio,2,1
+20.08.2023 13:45,Udinese,Juventus,0,3
+20.08.2023 11:30,Roma,Salernitana,2,2
+20.08.2023 11:30,Sassuolo,Atalanta,0,2
+19.08.2023 13:45,Genoa,Fiorentina,1,4
+19.08.2023 13:45,Inter,Monza,2,0
+19.08.2023 11:30,Empoli,Verona,0,1
+19.08.2023 11:30,Frosinone,Nápoles,1,3

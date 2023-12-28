@@ -1,0 +1,72 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+03.09.2023 14:05,Osijek,Dinamo Zagreb,2,3
+03.09.2023 11:30,Rijeka,Varazdin,2,2
+02.09.2023 14:05,Hajduk Split,Istra 1961,0,1
+02.09.2023 12:00,Rudes,Gorica,0,2
+01.09.2023 13:00,Slaven Belupo,Lok. Zagreb,0,1
+27.08.2023 14:05,Dinamo Zagreb,Rijeka,2,1
+27.08.2023 11:30,Istra 1961,Rudes,0,0
+26.08.2023 14:05,Lok. Zagreb,Osijek,2,2
+26.08.2023 12:00,Varazdin,Hajduk Split,1,2
+25.08.2023 13:00,Gorica,Slaven Belupo,2,2
+20.08.2023 14:05,Rijeka,Lok. Zagreb,2,1
+20.08.2023 14:00,Osijek,Gorica,1,0
+20.08.2023 11:50,Rudes,Hajduk Split,0,2
+19.08.2023 11:30,Slaven Belupo,Istra 1961,2,2
+13.08.2023 14:05,Hajduk Split,Slaven Belupo,3,0
+13.08.2023 11:55,Istra 1961,Osijek,4,4
+12.08.2023 13:00,Varazdin,Rudes,2,0
+06.08.2023 14:00,Rijeka,Istra 1961,6,0
+05.08.2023 14:00,Dinamo Zagreb,Gorica,0,0
+05.08.2023 11:45,Slaven Belupo,Rudes,3,2
+04.08.2023 13:00,Lok. Zagreb,Varazdin,3,3
+30.07.2023 14:05,Hajduk Split,Rijeka,1,0
+30.07.2023 11:45,Rudes,Osijek,3,4
+29.07.2023 14:00,Istra 1961,Dinamo Zagreb,0,3
+29.07.2023 11:45,Gorica,Lok. Zagreb,1,0
+28.07.2023 13:00,Varazdin,Slaven Belupo,2,2
+23.07.2023 14:00,Lok. Zagreb,Istra 1961,1,1
+23.07.2023 11:45,Gorica,Varazdin,1,1
+22.07.2023 14:00,Osijek,Slaven Belupo,6,1
+22.07.2023 11:45,Rijeka,Rudes,4,0
+21.07.2023 13:00,Dinamo Zagreb,Hajduk Split,1,2

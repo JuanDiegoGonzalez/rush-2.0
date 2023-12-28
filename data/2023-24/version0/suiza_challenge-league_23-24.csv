@@ -1,0 +1,71 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+03.09.2023 07:15,Vaduz,Schaffhausen,6,0
+02.09.2023 11:00,Thun,Wil,3,1
+01.09.2023 13:15,Aarau,Nyonnais,0,2
+01.09.2023 13:15,Sion,Baden,1,1
+01.09.2023 12:30,Xamax,Bellinzona,1,1
+27.08.2023 07:15,Baden,Wil,0,5
+27.08.2023 07:15,Vaduz,Xamax,1,1
+25.08.2023 13:15,Bellinzona,Thun,0,3
+25.08.2023 12:45,Schaffhausen,Aarau,2,2
+25.08.2023 12:30,Nyonnais,Sion,1,2
+13.08.2023 07:15,Baden,Vaduz,2,3
+13.08.2023 07:15,Bellinzona,Aarau,1,3
+11.08.2023 13:15,Wil,Sion,0,0
+11.08.2023 12:30,Nyonnais,Schaffhausen,2,1
+11.08.2023 12:30,Xamax,Thun,4,0
+06.08.2023 07:15,Aarau,Xamax,2,3
+06.08.2023 07:15,Vaduz,Nyonnais,2,1
+04.08.2023 13:15,Schaffhausen,Wil,1,3
+04.08.2023 13:15,Sion,Bellinzona,1,0
+04.08.2023 12:30,Thun,Baden,6,0
+30.07.2023 07:15,Baden,Bellinzona,1,1
+30.07.2023 07:15,Wil,Vaduz,3,2
+28.07.2023 13:15,Sion,Aarau,1,0
+28.07.2023 12:30,Nyonnais,Xamax,1,1
+28.07.2023 12:30,Schaffhausen,Thun,0,1
+23.07.2023 07:15,Bellinzona,Wil,0,2
+23.07.2023 07:15,Vaduz,Sion,0,2
+21.07.2023 13:15,Aarau,Baden,1,0
+21.07.2023 12:30,Thun,Nyonnais,1,1
+21.07.2023 12:30,Xamax,Schaffhausen,3,0

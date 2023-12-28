@@ -1,0 +1,162 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+20.09.2023 20:20,Atl. Nacional,Ind. Santa Fe,3,0
+20.09.2023 18:10,Aguilas Doradas,América de Cali,2,2
+20.09.2023 16:00,Boyacá Chicó,Junior,2,1
+19.09.2023 20:20,La Equidad,Deportivo Cali,1,1
+18.09.2023 20:50,Ind. Medellín,Millonarios,1,1
+18.09.2023 18:40,Atl. Bucaramanga,Pereira,1,1
+18.09.2023 16:30,U. Magdalena,Once Caldas,1,1
+18.09.2023 16:00,Envigado,Jaguares de Córdoba,1,0
+17.09.2023 20:20,Dep. Pasto,Tolima,1,2
+17.09.2023 19:00,Atl. Huila,Aguilas Doradas,1,1
+17.09.2023 18:10,Junior,Atl. Nacional,1,1
+17.09.2023 16:00,Ind. Santa Fe,Alianza Petrolera,0,1
+16.09.2023 20:15,América de Cali,Boyacá Chicó,5,0
+15.09.2023 20:30,Millonarios,Atl. Bucaramanga,3,0
+15.09.2023 18:15,Once Caldas,Envigado,0,0
+14.09.2023 20:50,Alianza Petrolera,Junior,1,5
+14.09.2023 18:40,Deportivo Cali,Atl. Huila,1,0
+14.09.2023 17:45,Aguilas Doradas,U. Magdalena,2,1
+14.09.2023 16:30,Tolima,Ind. Medellín,1,1
+13.09.2023 20:20,Atl. Nacional,La Equidad,5,0
+13.09.2023 18:10,Jaguares de Córdoba,América de Cali,0,1
+13.09.2023 17:45,Boyacá Chicó,Ind. Santa Fe,1,1
+13.09.2023 16:00,Pereira,Dep. Pasto,2,1
+11.09.2023 20:30,Atl. Bucaramanga,Alianza Petrolera,0,1
+11.09.2023 18:15,Atl. Huila,Tolima,3,0
+11.09.2023 16:00,Envigado,Aguilas Doradas,2,2
+10.09.2023 20:20,Millonarios,Ind. Santa Fe,2,4
+10.09.2023 18:10,América de Cali,Deportivo Cali,3,0
+10.09.2023 16:00,Pereira,Once Caldas,1,2
+09.09.2023 20:20,Ind. Medellín,Atl. Nacional,1,0
+09.09.2023 18:10,Junior,U. Magdalena,7,1
+09.09.2023 16:00,La Equidad,Boyacá Chicó,0,0
+08.09.2023 19:40,Dep. Pasto,Jaguares de Córdoba,1,0
+06.09.2023 20:20,Deportivo Cali,Ind. Santa Fe,2,2
+06.09.2023 18:10,Tolima,Pereira,2,3
+06.09.2023 16:05,Envigado,América de Cali,0,0
+05.09.2023 20:10,Alianza Petrolera,Boyacá Chicó,1,1
+04.09.2023 20:20,Once Caldas,Atl. Huila,1,2
+04.09.2023 18:10,U. Magdalena,La Equidad,1,0
+03.09.2023 20:20,Deportivo Cali,Dep. Pasto,4,0
+03.09.2023 18:10,Aguilas Doradas,Millonarios,2,0
+03.09.2023 16:00,Atl. Nacional,Pereira,2,0
+02.09.2023 20:20,Alianza Petrolera,América de Cali,2,3
+02.09.2023 18:10,Ind. Santa Fe,Junior,1,0
+02.09.2023 16:45,Jaguares de Córdoba,Ind. Medellín,1,1
+01.09.2023 20:10,Tolima,Atl. Bucaramanga,0,0
+01.09.2023 18:05,Boyacá Chicó,Envigado,1,0
+30.08.2023 20:30,Aguilas Doradas,Atl. Nacional,2,0
+30.08.2023 18:15,U. Magdalena,América de Cali,0,0
+29.08.2023 20:10,Dep. Pasto,Once Caldas,1,0
+28.08.2023 20:30,Atl. Bucaramanga,Deportivo Cali,1,0
+28.08.2023 18:15,Ind. Medellín,Boyacá Chicó,1,1
+27.08.2023 20:20,Atl. Huila,Jaguares de Córdoba,0,0
+27.08.2023 18:10,América de Cali,Ind. Santa Fe,2,0
+27.08.2023 16:00,Millonarios,Atl. Nacional,1,0
+26.08.2023 20:20,La Equidad,Tolima,0,0
+26.08.2023 18:10,U. Magdalena,Alianza Petrolera,2,0
+26.08.2023 16:00,Envigado,Junior,1,2
+25.08.2023 20:30,Aguilas Doradas,Ind. Medellín,1,1
+25.08.2023 18:15,Once Caldas,Atl. Bucaramanga,1,0
+24.08.2023 20:30,Deportivo Cali,Millonarios,0,0
+24.08.2023 18:20,Atl. Nacional,Dep. Pasto,2,0
+24.08.2023 16:00,Boyacá Chicó,Atl. Huila,1,1
+23.08.2023 20:30,Junior,América de Cali,4,3
+23.08.2023 18:15,Ind. Santa Fe,Envigado,2,0
+23.08.2023 16:45,Alianza Petrolera,La Equidad,1,0
+22.08.2023 18:15,Jaguares de Córdoba,U. Magdalena,0,1
+21.08.2023 19:00,Millonarios,Once Caldas,2,1
+21.08.2023 16:00,Atl. Bucaramanga,Aguilas Doradas,1,1
+20.08.2023 20:20,Atl. Huila,Atl. Nacional,0,1
+20.08.2023 18:10,Ind. Medellín,Alianza Petrolera,2,1
+20.08.2023 16:00,Dep. Pasto,Boyacá Chicó,1,1
+19.08.2023 20:20,La Equidad,Junior,0,0
+19.08.2023 18:10,U. Magdalena,Ind. Santa Fe,2,2
+19.08.2023 16:00,Pereira,Jaguares de Córdoba,3,0
+14.08.2023 19:40,Boyacá Chicó,U. Magdalena,0,0
+13.08.2023 20:20,Atl. Nacional,Atl. Bucaramanga,2,1
+13.08.2023 18:10,Jaguares de Córdoba,Millonarios,2,0
+13.08.2023 16:00,América de Cali,Ind. Medellín,1,3
+12.08.2023 20:30,Once Caldas,Pereira,1,0
+12.08.2023 18:20,Junior,Dep. Pasto,0,0
+12.08.2023 16:10,Ind. Santa Fe,La Equidad,1,1
+11.08.2023 20:30,Tolima,Atl. Huila,1,0
+11.08.2023 18:20,Aguilas Doradas,Deportivo Cali,1,0
+10.08.2023 18:00,Alianza Petrolera,Envigado,3,1
+07.08.2023 19:30,Millonarios,Tolima,1,0
+07.08.2023 17:15,Atl. Bucaramanga,Jaguares de Córdoba,3,0
+06.08.2023 20:20,Dep. Pasto,Ind. Santa Fe,2,0
+06.08.2023 18:10,Deportivo Cali,Atl. Nacional,1,1
+06.08.2023 16:00,La Equidad,América de Cali,1,1
+05.08.2023 20:20,Ind. Medellín,Envigado,1,0
+05.08.2023 18:10,Pereira,Boyacá Chicó,1,1
+05.08.2023 16:00,U. Magdalena,Junior,0,0
+04.08.2023 20:30,Aguilas Doradas,Once Caldas,2,1
+04.08.2023 18:15,Atl. Huila,Alianza Petrolera,0,0
+02.08.2023 19:30,Ind. Santa Fe,Ind. Medellín,1,0
+31.07.2023 20:20,Junior,Atl. Bucaramanga,1,1
+31.07.2023 18:10,Boyacá Chicó,La Equidad,0,2
+31.07.2023 16:00,Envigado,U. Magdalena,0,0
+30.07.2023 20:00,Atl. Huila,Pereira,2,0
+30.07.2023 17:45,América de Cali,Dep. Pasto,1,1
+30.07.2023 15:30,Once Caldas,Deportivo Cali,4,0
+29.07.2023 20:20,Atl. Nacional,Jaguares de Córdoba,2,1
+29.07.2023 18:10,Alianza Petrolera,Millonarios,1,0
+29.07.2023 16:00,Tolima,Aguilas Doradas,1,1
+24.07.2023 19:00,Jaguares de Córdoba,Boyacá Chicó,2,1
+23.07.2023 20:10,Ind. Medellín,Junior,1,0
+23.07.2023 15:45,Atl. Bucaramanga,Atl. Huila,1,0
+22.07.2023 20:30,Millonarios,Pereira,0,0
+21.07.2023 20:30,Dep. Pasto,Alianza Petrolera,1,1
+21.07.2023 18:15,La Equidad,Envigado,1,1
+21.07.2023 16:00,Tolima,Once Caldas,3,1
+19.07.2023 20:00,Ind. Santa Fe,Jaguares de Córdoba,1,0
+17.07.2023 20:00,Pereira,Deportivo Cali,0,2
+16.07.2023 19:30,Once Caldas,Atl. Nacional,1,1
+16.07.2023 17:15,América de Cali,Tolima,1,0
+15.07.2023 20:20,Dep. Pasto,Millonarios,0,0
+15.07.2023 18:10,Junior,Aguilas Doradas,0,1
+15.07.2023 16:00,Ind. Medellín,La Equidad,2,2
+14.07.2023 19:40,Atl. Huila,U. Magdalena,2,1
+14.07.2023 16:00,Envigado,Atl. Bucaramanga,1,3

@@ -1,0 +1,83 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+03.09.2023 13:00,Midtjylland,Aarhus,1,1
+03.09.2023 11:00,Copenhague,Viborg,2,0
+03.09.2023 09:00,Brondby,Randers,3,1
+03.09.2023 07:00,Lyngby,Nordsjaelland,1,1
+03.09.2023 07:00,Silkeborg,Hvidovre IF,1,0
+01.09.2023 12:00,Odense,Vejle,1,2
+28.08.2023 12:00,Vejle,Brondby,0,1
+27.08.2023 11:00,Nordsjaelland,Midtjylland,3,0
+27.08.2023 09:00,Hvidovre IF,Odense,1,5
+27.08.2023 07:00,Aarhus,Lyngby,1,0
+26.08.2023 09:00,Copenhague,Silkeborg,1,3
+25.08.2023 11:30,Randers,Viborg,1,0
+21.08.2023 12:00,Viborg,Vejle,2,1
+20.08.2023 13:00,Odense,Aarhus,1,1
+20.08.2023 11:00,Midtjylland,Brondby,0,1
+20.08.2023 09:00,Lyngby,Randers,1,0
+20.08.2023 07:00,Silkeborg,Nordsjaelland,2,0
+18.08.2023 12:00,Hvidovre IF,Copenhague,0,2
+14.08.2023 12:00,Viborg,Hvidovre IF,0,0
+13.08.2023 11:00,Aarhus,Silkeborg,2,2
+13.08.2023 09:00,Brondby,Lyngby,3,0
+13.08.2023 07:00,Randers,Nordsjaelland,0,5
+13.08.2023 07:00,Vejle,Midtjylland,1,2
+11.08.2023 12:00,Copenhague,Odense,2,1
+07.08.2023 12:00,Odense,Viborg,1,2
+06.08.2023 11:00,Nordsjaelland,Brondby,3,1
+06.08.2023 09:00,Lyngby,Midtjylland,4,1
+06.08.2023 07:00,Hvidovre IF,Aarhus,0,2
+05.08.2023 09:00,Copenhague,Randers,4,0
+04.08.2023 12:00,Silkeborg,Vejle,2,1
+31.07.2023 12:00,Aarhus,Nordsjaelland,1,3
+30.07.2023 11:00,Brondby,Odense,1,2
+30.07.2023 09:00,Randers,Hvidovre IF,2,2
+30.07.2023 07:00,Midtjylland,Silkeborg,2,0
+29.07.2023 09:00,Vejle,Copenhague,2,3
+28.07.2023 12:00,Viborg,Lyngby,2,2
+24.07.2023 12:00,Nordsjaelland,Viborg,4,1
+23.07.2023 11:00,Silkeborg,Brondby,1,2
+23.07.2023 09:00,Odense,Randers,2,2
+23.07.2023 07:00,Aarhus,Vejle,1,0
+22.07.2023 09:00,Lyngby,Copenhague,1,2
+21.07.2023 12:00,Midtjylland,Hvidovre IF,1,0

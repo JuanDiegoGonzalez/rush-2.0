@@ -1,0 +1,89 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+03.09.2023 03:30,Kapfenberg,Leoben,2,1
+02.09.2023 07:30,Bregenz,Lafnitz,2,1
+02.09.2023 07:30,Horn,Dornbirn,3,0
+01.09.2023 13:30,Grazer,Ried,1,0
+01.09.2023 11:10,Admira,Sturm Graz (Am),1,1
+01.09.2023 11:10,Amstetten,St. Polten,0,1
+01.09.2023 11:10,First Wien,Stripfing,1,0
+01.09.2023 11:10,Floridsdorfer AC,Liefering,3,1
+27.08.2023 03:30,Lafnitz,Grazer,4,1
+27.08.2023 03:30,Sturm Graz (Am),Kapfenberg,3,3
+25.08.2023 13:30,Dornbirn,Bregenz,0,5
+25.08.2023 11:10,Admira,Amstetten,3,1
+25.08.2023 11:10,Leoben,First Wien,0,1
+25.08.2023 11:10,Liefering,Ried,1,1
+25.08.2023 11:10,St. Polten,Floridsdorfer AC,2,0
+25.08.2023 11:10,Stripfing,Horn,3,1
+22.08.2023 11:30,Horn,Liefering,2,1
+20.08.2023 05:30,Kapfenberg,St. Polten,0,3
+19.08.2023 07:30,Dornbirn,Admira,1,0
+18.08.2023 13:30,Grazer,Sturm Graz (Am),1,0
+18.08.2023 11:10,Amstetten,Stripfing,1,1
+18.08.2023 11:10,Floridsdorfer AC,Lafnitz,3,0
+18.08.2023 11:10,Horn,First Wien,2,0
+18.08.2023 11:10,Liefering,Bregenz,2,1
+18.08.2023 11:10,Ried,Leoben,2,0
+13.08.2023 03:30,Leoben,Amstetten,1,0
+13.08.2023 03:30,Sturm Graz (Am),Floridsdorfer AC,2,2
+12.08.2023 07:30,Bregenz,Kapfenberg,0,2
+12.08.2023 07:30,Lafnitz,Dornbirn,1,0
+11.08.2023 13:30,First Wien,Grazer,2,3
+11.08.2023 11:10,Admira,Horn,1,0
+11.08.2023 11:10,St. Polten,Liefering,0,1
+11.08.2023 11:10,Stripfing,Ried,1,0
+06.08.2023 03:35,First Wien,Sturm Graz (Am),2,2
+05.08.2023 13:00,Amstetten,Bregenz,1,2
+04.08.2023 13:30,Ried,Admira,2,2
+04.08.2023 11:10,Dornbirn,Grazer,0,1
+04.08.2023 11:10,Kapfenberg,Floridsdorfer AC,1,1
+04.08.2023 11:10,St. Polten,Lafnitz,2,0
+04.08.2023 11:10,Stripfing,Leoben,1,4
+30.07.2023 03:30,Floridsdorfer AC,Ried,1,1
+30.07.2023 03:30,Sturm Graz (Am),St. Polten,1,4
+28.07.2023 10:45,Admira,Stripfing,1,0
+28.07.2023 10:45,Bregenz,First Wien,2,0
+28.07.2023 10:45,Grazer,Amstetten,3,0
+28.07.2023 10:45,Lafnitz,Kapfenberg,3,0
+28.07.2023 10:45,Leoben,Horn,3,2
+28.07.2023 10:45,Liefering,Dornbirn,0,1

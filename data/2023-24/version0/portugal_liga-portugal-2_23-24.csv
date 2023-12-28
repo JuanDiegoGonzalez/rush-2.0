@@ -1,0 +1,83 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+16.09.2023 12:00,Tondela,Mafra,2,1
+16.09.2023 09:30,Santa Clara,Penafiel,0,0
+16.09.2023 08:00,Nacional,Feirense,1,0
+16.09.2023 05:00,AVS,Vilaverdense,2,0
+16.09.2023 05:00,Oporto B,Marítimo,0,2
+15.09.2023 14:15,P. Ferreira,Leixoes,1,2
+03.09.2023 09:30,Vilaverdense,Nacional,1,2
+03.09.2023 08:00,Leixoes,Benfica B,1,1
+03.09.2023 05:00,Torreense,Oliveirense,3,1
+02.09.2023 12:00,Marítimo,P. Ferreira,2,0
+02.09.2023 09:30,Leiria,AVS,1,2
+02.09.2023 09:30,Penafiel,Academico Viseu,0,0
+02.09.2023 08:00,Feirense,Santa Clara,0,2
+02.09.2023 05:00,Mafra,Oporto B,2,1
+01.09.2023 12:00,Tondela,Os Belenenses,0,1
+28.08.2023 12:00,Nacional,Leixoes,3,1
+27.08.2023 12:00,AVS,Torreense,0,0
+27.08.2023 09:30,Benfica B,Marítimo,0,1
+27.08.2023 08:00,Santa Clara,Vilaverdense,2,0
+27.08.2023 05:00,Oliveirense,Penafiel,3,1
+27.08.2023 05:00,Oporto B,Leiria,2,1
+26.08.2023 09:30,Os Belenenses,Mafra,1,1
+26.08.2023 08:00,P. Ferreira,Tondela,5,1
+26.08.2023 05:00,Academico Viseu,Feirense,2,0
+21.08.2023 14:45,Leixoes,Santa Clara,0,0
+21.08.2023 12:45,Torreense,Nacional,3,0
+20.08.2023 14:30,Feirense,Penafiel,2,0
+20.08.2023 08:00,Os Belenenses,Oporto B,1,1
+20.08.2023 05:00,Vilaverdense,Oliveirense,1,2
+19.08.2023 09:30,Tondela,Academico Viseu,2,2
+19.08.2023 08:00,Leiria,Benfica B,3,1
+19.08.2023 05:00,Mafra,P. Ferreira,2,1
+18.08.2023 12:00,Marítimo,AVS,0,1
+16.08.2023 12:00,Santa Clara,Torreense,2,0
+15.08.2023 05:00,Oliveirense,Feirense,3,1
+13.08.2023 12:00,Benfica B,Mafra,3,2
+13.08.2023 08:00,Penafiel,Leixoes,3,0
+13.08.2023 05:00,Academico Viseu,Vilaverdense,1,1
+13.08.2023 05:00,Oporto B,Tondela,1,1
+12.08.2023 12:00,AVS,Os Belenenses,1,0
+12.08.2023 08:00,Nacional,Marítimo,1,2
+12.08.2023 05:00,P. Ferreira,Leiria,0,0

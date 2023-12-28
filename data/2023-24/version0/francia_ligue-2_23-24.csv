@@ -1,0 +1,91 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+02.09.2023 12:00,AC Ajaccio,Dunkerque,2,2
+02.09.2023 12:00,Amiens,EA Guingamp,4,1
+02.09.2023 12:00,Angers,Paris FC,2,0
+02.09.2023 12:00,Concarneau,Annecy,1,1
+02.09.2023 12:00,Grenoble,Bastia,0,0
+02.09.2023 12:00,Laval,SM Caen,2,1
+02.09.2023 12:00,Pau FC,Rodez,2,2
+02.09.2023 12:00,Saint-Étienne,Valenciennes,0,0
+02.09.2023 12:00,Troyes,Quevilly Rouen,2,2
+02.09.2023 08:00,Girondins,Auxerre,2,4
+28.08.2023 13:45,Annecy,Saint-Étienne,1,1
+26.08.2023 12:00,Auxerre,Grenoble,0,0
+26.08.2023 12:00,Bastia,Troyes,3,2
+26.08.2023 12:00,Dunkerque,Angers,0,1
+26.08.2023 12:00,EA Guingamp,Pau FC,4,0
+26.08.2023 12:00,Paris FC,Concarneau,3,0
+26.08.2023 12:00,Quevilly Rouen,Laval,0,0
+26.08.2023 12:00,Rodez,Valenciennes,0,1
+26.08.2023 12:00,SM Caen,AC Ajaccio,3,0
+26.08.2023 08:00,Girondins,Amiens,2,0
+21.08.2023 13:45,AC Ajaccio,Girondins,0,0
+19.08.2023 12:00,Amiens,Bastia,2,1
+19.08.2023 12:00,Annecy,Dunkerque,3,0
+19.08.2023 12:00,Concarneau,SM Caen,0,2
+19.08.2023 12:00,Grenoble,Troyes,0,0
+19.08.2023 12:00,Laval,Rodez,1,0
+19.08.2023 12:00,Pau FC,Paris FC,2,0
+19.08.2023 12:00,Saint-Étienne,Quevilly Rouen,2,1
+19.08.2023 12:00,Valenciennes,EA Guingamp,0,0
+19.08.2023 08:00,Angers,Auxerre,2,2
+14.08.2023 13:45,Girondins,Concarneau,1,0
+12.08.2023 12:00,Angers,Annecy,0,0
+12.08.2023 12:00,Auxerre,Amiens,0,1
+12.08.2023 12:00,Bastia,Valenciennes,3,0
+12.08.2023 12:00,EA Guingamp,Dunkerque,0,1
+12.08.2023 12:00,Grenoble,Paris FC,2,0
+12.08.2023 12:00,Quevilly Rouen,AC Ajaccio,0,1
+12.08.2023 12:00,SM Caen,Pau FC,2,0
+12.08.2023 12:00,Troyes,Laval,3,1
+12.08.2023 08:00,Rodez,Saint-Étienne,2,1
+07.08.2023 13:45,Pau FC,Girondins,3,0
+05.08.2023 12:00,AC Ajaccio,Rodez,1,1
+05.08.2023 12:00,Amiens,Quevilly Rouen,1,0
+05.08.2023 12:00,Annecy,EA Guingamp,1,4
+05.08.2023 12:00,Concarneau,Bastia,0,0
+05.08.2023 12:00,Dunkerque,Troyes,2,2
+05.08.2023 12:00,Laval,Angers,1,0
+05.08.2023 12:00,Paris FC,SM Caen,0,2
+05.08.2023 12:00,Valenciennes,Auxerre,1,4
+05.08.2023 08:00,Saint-Étienne,Grenoble,0,1

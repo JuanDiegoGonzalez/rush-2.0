@@ -1,0 +1,81 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+16.09.2023 14:30,Vizela,Benfica,1,2
+16.09.2023 12:00,Farense,SC Braga,3,1
+16.09.2023 09:30,Rio Ave,Famalicao,1,1
+15.09.2023 13:15,Estrela,Oporto,0,1
+09.09.2023 12:00,Moreirense,SC Braga,2,3
+03.09.2023 14:30,SC Braga,Sporting CP,1,1
+03.09.2023 12:00,Oporto,Arouca,1,1
+03.09.2023 09:30,Chaves,Moreirense,1,2
+03.09.2023 09:30,Estoril,Boavista,1,2
+02.09.2023 14:30,Benfica,V. Guimaraes,4,0
+02.09.2023 12:00,Famalicao,Farense,1,0
+02.09.2023 12:00,Portimonense,Estrela,1,1
+02.09.2023 09:30,Casa Pia,Rio Ave,1,1
+01.09.2023 14:15,Vizela,Gil Vicente,1,0
+28.08.2023 14:15,Rio Ave,Oporto,1,2
+27.08.2023 14:30,Sporting CP,Famalicao,1,0
+27.08.2023 12:00,V. Guimaraes,Vizela,2,0
+27.08.2023 09:30,Boavista,Casa Pia,1,1
+26.08.2023 14:30,Gil Vicente,Benfica,2,3
+26.08.2023 12:00,Farense,Chaves,5,0
+26.08.2023 09:30,Arouca,Portimonense,1,1
+25.08.2023 14:15,Estrela,Estoril,2,1
+21.08.2023 14:15,Famalicao,Moreirense,0,0
+20.08.2023 14:30,Vizela,Arouca,2,2
+20.08.2023 12:00,Oporto,Farense,2,1
+20.08.2023 09:30,Estoril,Rio Ave,2,0
+19.08.2023 14:30,Benfica,Estrela,2,0
+19.08.2023 14:30,Portimonense,Boavista,1,4
+19.08.2023 12:00,Chaves,SC Braga,2,4
+19.08.2023 09:30,V. Guimaraes,Gil Vicente,2,1
+18.08.2023 14:15,Casa Pia,Sporting CP,1,2
+14.08.2023 14:45,Boavista,Benfica,3,2
+14.08.2023 12:45,Moreirense,Oporto,1,2
+13.08.2023 14:30,Arouca,Estoril,4,3
+13.08.2023 12:00,Estrela,V. Guimaraes,0,1
+13.08.2023 09:30,Rio Ave,Chaves,2,0
+12.08.2023 14:30,Sporting CP,Vizela,3,2
+12.08.2023 12:00,Farense,Casa Pia,0,3
+12.08.2023 09:30,Gil Vicente,Portimonense,5,0
+11.08.2023 14:15,SC Braga,Famalicao,1,2

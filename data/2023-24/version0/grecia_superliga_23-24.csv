@@ -1,0 +1,69 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+23.09.2023 12:00,Panserraikos,Lamia,2,0
+23.09.2023 09:30,OFI Creta,Atromitos,1,1
+18.09.2023 10:00,Atromitos,Volos,1,1
+17.09.2023 13:30,AEK,Olympiacos,1,1
+17.09.2023 12:30,PAOK,Aris,0,0
+17.09.2023 10:00,Kifisias,Panserraikos,4,4
+17.09.2023 07:00,Asteras T.,Giannina,2,2
+16.09.2023 12:30,Panetolikos,Panathinaikos,0,5
+16.09.2023 09:30,Lamia,OFI Creta,2,2
+03.09.2023 13:45,Giannina,Panathinaikos,0,1
+03.09.2023 13:30,Volos,AEK,2,3
+03.09.2023 12:00,Aris,Asteras T.,3,2
+03.09.2023 12:00,OFI Creta,PAOK,1,0
+03.09.2023 12:00,Olympiacos,Lamia,4,0
+02.09.2023 13:00,Panserraikos,Panetolikos,1,1
+01.09.2023 13:00,Kifisias,Atromitos,2,1
+27.08.2023 13:30,Olympiacos,Atromitos,4,0
+27.08.2023 13:00,PAOK,Kifisias,2,1
+27.08.2023 11:15,Lamia,Aris,1,0
+26.08.2023 13:30,AEK,Panserraikos,1,1
+26.08.2023 12:00,Asteras T.,OFI Creta,3,0
+26.08.2023 12:00,Panathinaikos,Volos,3,0
+25.08.2023 13:00,Panetolikos,Giannina,0,0
+20.08.2023 14:00,Olympiacos,Panserraikos,2,0
+20.08.2023 12:00,PAOK,Asteras T.,3,0
+20.08.2023 11:30,OFI Creta,Aris,3,2
+20.08.2023 11:00,Giannina,Kifisias,3,0
+18.08.2023 13:00,Volos,Lamia,2,2

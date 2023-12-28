@@ -1,0 +1,67 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+16.09.2023 09:00,Arbroath,Airdrieonians,4,0
+16.09.2023 09:00,Dundee Utd,Morton,1,1
+16.09.2023 09:00,Queen's Park,Dunfermline,0,2
+16.09.2023 09:00,Raith,Inverness,1,0
+15.09.2023 13:45,Ayr,Partick Thistle,0,4
+02.09.2023 09:00,Arbroath,Ayr,2,1
+02.09.2023 09:00,Dundee Utd,Airdrieonians,2,0
+02.09.2023 09:00,Inverness,Dunfermline,1,1
+02.09.2023 09:00,Morton,Partick Thistle,1,4
+02.09.2023 09:00,Raith,Queen's Park,3,2
+26.08.2023 09:00,Airdrieonians,Inverness,2,1
+26.08.2023 09:00,Ayr,Dundee Utd,0,3
+26.08.2023 09:00,Dunfermline,Raith,0,1
+26.08.2023 09:00,Morton,Arbroath,0,3
+26.08.2023 09:00,Partick Thistle,Queen's Park,3,1
+19.08.2023 09:00,Arbroath,Queen's Park,0,1
+12.08.2023 09:00,Airdrieonians,Partick Thistle,2,1
+12.08.2023 09:00,Ayr,Inverness,1,0
+12.08.2023 09:00,Dundee Utd,Dunfermline,1,1
+12.08.2023 09:00,Queen's Park,Arbroath,2,1
+12.08.2023 09:00,Raith,Morton,3,2
+05.08.2023 09:00,Dunfermline,Airdrieonians,2,1
+05.08.2023 09:00,Inverness,Queen's Park,1,2
+05.08.2023 09:00,Morton,Ayr,3,1
+05.08.2023 09:00,Partick Thistle,Raith,2,2
+04.08.2023 13:45,Arbroath,Dundee Utd,0,4

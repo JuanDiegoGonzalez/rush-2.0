@@ -1,0 +1,81 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+16.09.2023 11:00,Kocaelispor,Boluspor,2,1
+16.09.2023 11:00,Umraniyespor,Corum,0,3
+16.09.2023 08:00,Erzurumspor,Altay,4,0
+16.09.2023 08:00,Keciorengucu,Sanliurfaspor,2,0
+03.09.2023 13:45,Altay,Göztepe,0,1
+03.09.2023 13:45,Sanliurfaspor,Erzurumspor,0,0
+03.09.2023 11:15,Corum,Genclerbirligi,0,1
+03.09.2023 09:00,Bodrumspor,Umraniyespor,4,0
+02.09.2023 13:45,Eyupspor,Giresunspor,3,1
+02.09.2023 11:15,Boluspor,Keciorengucu,0,0
+02.09.2023 11:15,Manisa FK,Tuzlaspor,4,0
+02.09.2023 09:00,Bandirmaspor,Sakaryaspor,3,1
+01.09.2023 13:00,Adanaspor,Kocaelispor,0,2
+28.08.2023 13:00,Giresunspor,Bandirmaspor,0,1
+27.08.2023 13:45,Kocaelispor,Altay,3,2
+27.08.2023 11:15,Boluspor,Sanliurfaspor,1,1
+27.08.2023 09:00,Keciorengucu,Adanaspor,1,0
+26.08.2023 13:45,Göztepe,Corum,1,2
+26.08.2023 11:15,Sakaryaspor,Umraniyespor,1,1
+26.08.2023 09:00,Genclerbirligi,Bodrumspor,1,0
+26.08.2023 09:00,Tuzlaspor,Eyupspor,0,5
+25.08.2023 13:00,Erzurumspor,Manisa FK,1,2
+21.08.2023 13:00,Eyupspor,Kocaelispor,2,0
+20.08.2023 13:45,Altay,Tuzlaspor,1,0
+20.08.2023 11:15,Sakaryaspor,Genclerbirligi,0,0
+20.08.2023 09:00,Bandirmaspor,Boluspor,0,0
+20.08.2023 09:00,Manisa FK,Keciorengucu,0,0
+19.08.2023 13:45,Adanaspor,Sanliurfaspor,1,2
+19.08.2023 11:15,Umraniyespor,Göztepe,0,0
+19.08.2023 09:00,Bodrumspor,Erzurumspor,0,0
+18.08.2023 13:00,Corum,Giresunspor,0,2
+14.08.2023 13:00,Sanliurfaspor,Altay,2,1
+13.08.2023 13:45,Göztepe,Sakaryaspor,0,1
+13.08.2023 11:15,Erzurumspor,Bandirmaspor,1,1
+13.08.2023 09:00,Genclerbirligi,Umraniyespor,2,1
+13.08.2023 09:00,Tuzlaspor,Corum,0,3
+12.08.2023 13:45,Kocaelispor,Manisa FK,0,2
+12.08.2023 11:15,Giresunspor,Bodrumspor,0,1
+12.08.2023 09:00,Keciorengucu,Eyupspor,0,1
+11.08.2023 13:00,Boluspor,Adanaspor,0,2

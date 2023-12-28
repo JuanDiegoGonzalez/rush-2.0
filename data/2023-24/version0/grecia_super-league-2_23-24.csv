@@ -1,0 +1,461 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+20.06.2023 09:00,Niki Volos,AEL Larissa,1,2
+18.06.2023 09:00,Episkopi,Irodotos,3,0
+18.06.2023 09:00,Ilioupoli,O.F. Ierapetra,2,3
+18.06.2023 09:00,Kalamata,AEK B,0,1
+18.06.2023 09:00,PAE Chania,Olympiacos B,4,2
+18.06.2023 09:00,PAE Egaleo,Proodeftiki,1,1
+18.06.2023 09:00,Panserraikos,Apollon Larissa,3,0
+18.06.2023 09:00,Rouf Pao,Athens Kallithea,1,2
+18.06.2023 09:00,Smyrnis,Kifisias,0,0
+17.06.2023 09:00,AEL Larissa,Diagoras,5,0
+17.06.2023 09:00,Apollon Pontou,Karditsa,1,0
+17.06.2023 09:00,Iraklis 1908,Thesprotos,5,1
+17.06.2023 09:00,Makedonikos,PAOK B,3,1
+17.06.2023 09:00,Panathinaikos B,Niki Volos,0,2
+17.06.2023 09:00,Veria,Iraklis Larissa,3,0
+11.06.2023 09:00,AEK B,Episkopi,0,0
+11.06.2023 09:00,Apollon Larissa,Iraklis 1908,0,3
+11.06.2023 09:00,Athens Kallithea,PAE Egaleo,2,0
+11.06.2023 09:00,Irodotos,PAE Chania,0,3
+11.06.2023 09:00,Kifisias,Kalamata,1,1
+11.06.2023 09:00,O.F. Ierapetra,Smyrnis,0,1
+11.06.2023 09:00,Olympiacos B,Panachaiki,4,2
+11.06.2023 09:00,Proodeftiki,Ilioupoli,3,2
+10.06.2023 09:00,Diagoras,Veria,1,0
+10.06.2023 09:00,Iraklis Larissa,Makedonikos,0,0
+10.06.2023 09:00,Karditsa,AEL Larissa,2,2
+10.06.2023 09:00,Niki Volos,Panserraikos,3,0
+10.06.2023 09:00,PAOK B,Panathinaikos B,3,1
+10.06.2023 09:00,Thesprotos,Almopos,0,5
+05.06.2023 09:00,Makedonikos,Diagoras,1,0
+04.06.2023 11:00,Veria,Karditsa,1,0
+04.06.2023 09:00,AEL Larissa,Apollon Pontou,1,0
+04.06.2023 09:00,Almopos,Apollon Larissa,3,0
+04.06.2023 09:00,Episkopi,Kifisias,1,5
+04.06.2023 09:00,Ilioupoli,Athens Kallithea,1,0
+04.06.2023 09:00,PAE Egaleo,Rouf Pao,2,1
+04.06.2023 09:00,Panachaiki,Irodotos,3,0
+03.06.2023 11:15,Smyrnis,Proodeftiki,3,0
+03.06.2023 09:00,Iraklis 1908,Niki Volos,1,1
+03.06.2023 09:00,Panathinaikos B,Iraklis Larissa,3,1
+02.06.2023 09:00,Kalamata,O.F. Ierapetra,3,0
+02.06.2023 09:00,PAE Chania,AEK B,1,1
+31.05.2023 11:15,Panserraikos,PAOK B,0,0
+29.05.2023 08:00,Apollon Pontou,Veria,0,0
+29.05.2023 07:15,Kifisias,PAE Chania,0,3
+28.05.2023 09:00,Apollon Larissa,Thesprotos,0,3
+28.05.2023 09:00,Irodotos,Olympiacos B,0,3
+28.05.2023 08:00,AEK B,Panachaiki,4,1
+28.05.2023 08:00,Iraklis Larissa,Panserraikos,2,0
+28.05.2023 08:00,Karditsa,Makedonikos,2,1
+28.05.2023 08:00,Niki Volos,Almopos,0,0
+28.05.2023 08:00,O.F. Ierapetra,Episkopi,2,0
+28.05.2023 08:00,Proodeftiki,Kalamata,1,2
+28.05.2023 08:00,Rouf Pao,Ilioupoli,2,2
+27.05.2023 08:00,Diagoras,Panathinaikos B,4,1
+27.05.2023 07:45,Athens Kallithea,Smyrnis,3,0
+26.05.2023 07:15,PAOK B,Iraklis 1908,0,3
+22.05.2023 08:00,Olympiacos B,AEK B,1,1
+22.05.2023 08:00,Panserraikos,Diagoras,3,1
+22.05.2023 07:15,Panachaiki,Kifisias,1,2
+19.05.2023 08:00,Almopos,PAOK B,0,0
+19.05.2023 08:00,Episkopi,Proodeftiki,0,3
+19.05.2023 08:00,Ilioupoli,PAE Egaleo,2,3
+19.05.2023 08:00,Iraklis 1908,Iraklis Larissa,4,1
+19.05.2023 08:00,Kalamata,Athens Kallithea,0,1
+19.05.2023 08:00,Makedonikos,Apollon Pontou,1,2
+19.05.2023 08:00,PAE Chania,O.F. Ierapetra,1,1
+19.05.2023 08:00,Panathinaikos B,Karditsa,2,2
+19.05.2023 08:00,Smyrnis,Rouf Pao,1,0
+19.05.2023 08:00,Thesprotos,Niki Volos,0,1
+19.05.2023 07:15,Veria,AEL Larissa,1,3
+15.05.2023 08:00,Diagoras,Iraklis 1908,2,2
+15.05.2023 07:15,Kifisias,Olympiacos B,0,0
+15.05.2023 07:00,O.F. Ierapetra,Panachaiki,2,1
+14.05.2023 09:00,AEK B,Irodotos,3,0
+14.05.2023 09:00,Niki Volos,Apollon Larissa,3,0
+14.05.2023 08:00,AEL Larissa,Makedonikos,2,0
+14.05.2023 08:00,Iraklis Larissa,Almopos,0,0
+14.05.2023 07:45,Proodeftiki,PAE Chania,1,2
+13.05.2023 08:00,Apollon Pontou,Panathinaikos B,2,1
+13.05.2023 08:00,Athens Kallithea,Episkopi,2,0
+13.05.2023 08:00,PAOK B,Thesprotos,2,1
+13.05.2023 08:00,Rouf Pao,Kalamata,0,1
+13.05.2023 07:45,Karditsa,Panserraikos,0,0
+12.05.2023 07:15,PAE Egaleo,Smyrnis,0,0
+08.05.2023 07:15,Panathinaikos B,AEL Larissa,2,1
+08.05.2023 06:45,Almopos,Diagoras,0,0
+08.05.2023 06:45,Episkopi,Rouf Pao,2,3
+08.05.2023 06:45,Kalamata,PAE Egaleo,0,2
+08.05.2023 06:45,Makedonikos,Veria,0,1
+08.05.2023 06:45,PAE Chania,Athens Kallithea,0,0
+08.05.2023 06:45,Thesprotos,Iraklis Larissa,0,0
+07.05.2023 09:00,Apollon Larissa,PAOK B,0,3
+07.05.2023 09:00,Irodotos,Kifisias,0,3
+07.05.2023 06:45,Panachaiki,Proodeftiki,0,1
+07.05.2023 06:45,Smyrnis,Ilioupoli,2,4
+06.05.2023 06:45,Olympiacos B,O.F. Ierapetra,3,2
+06.05.2023 05:45,Panserraikos,Apollon Pontou,3,0
+05.05.2023 07:15,Iraklis 1908,Karditsa,1,1
+04.05.2023 07:00,Diagoras,Thesprotos,2,3
+04.05.2023 06:45,Kifisias,AEK B,3,0
+04.05.2023 06:45,PAOK B,Niki Volos,3,1
+04.05.2023 06:45,Veria,Panathinaikos B,1,1
+03.05.2023 09:00,Iraklis Larissa,Apollon Larissa,3,0
+03.05.2023 09:00,O.F. Ierapetra,Irodotos,3,0
+03.05.2023 08:00,Rouf Pao,PAE Chania,0,3
+03.05.2023 07:15,AEL Larissa,Panserraikos,0,0
+03.05.2023 06:45,Athens Kallithea,Panachaiki,3,1
+03.05.2023 06:45,Ilioupoli,Kalamata,0,1
+03.05.2023 06:45,PAE Egaleo,Episkopi,2,3
+03.05.2023 06:45,Proodeftiki,Olympiacos B,0,1
+02.05.2023 06:45,Apollon Pontou,Iraklis 1908,0,5
+02.05.2023 06:45,Karditsa,Almopos,2,2
+01.05.2023 07:15,Panathinaikos B,Makedonikos,1,1
+30.04.2023 09:00,Apollon Larissa,Diagoras,0,3
+30.04.2023 09:00,Irodotos,Proodeftiki,0,3
+30.04.2023 06:45,Niki Volos,Iraklis Larissa,1,0
+29.04.2023 08:00,Iraklis 1908,AEL Larissa,1,1
+29.04.2023 06:45,Almopos,Apollon Pontou,0,0
+29.04.2023 06:45,Episkopi,Ilioupoli,0,1
+29.04.2023 06:45,Kalamata,Smyrnis,0,0
+29.04.2023 06:45,Olympiacos B,Athens Kallithea,5,4
+29.04.2023 06:45,PAE Chania,PAE Egaleo,2,1
+29.04.2023 06:45,Panachaiki,Rouf Pao,1,0
+29.04.2023 06:45,Thesprotos,Karditsa,0,0
+29.04.2023 05:45,AEK B,O.F. Ierapetra,0,1
+28.04.2023 07:15,Panserraikos,Veria,2,0
+24.04.2023 08:00,Ilioupoli,PAE Chania,0,0
+24.04.2023 07:15,Makedonikos,Panserraikos,0,1
+24.04.2023 07:00,O.F. Ierapetra,Kifisias,0,1
+23.04.2023 09:00,Athens Kallithea,Irodotos,3,0
+23.04.2023 09:00,Karditsa,Apollon Larissa,3,0
+23.04.2023 06:45,AEL Larissa,Almopos,2,0
+23.04.2023 06:45,Apollon Pontou,Thesprotos,0,1
+23.04.2023 06:45,Diagoras,Niki Volos,1,2
+23.04.2023 06:45,Smyrnis,Episkopi,3,1
+22.04.2023 06:45,Iraklis Larissa,PAOK B,1,4
+22.04.2023 06:45,Proodeftiki,AEK B,0,0
+22.04.2023 05:45,Veria,Iraklis 1908,1,2
+21.04.2023 07:15,PAE Egaleo,Panachaiki,0,2
+21.04.2023 06:45,Rouf Pao,Olympiacos B,1,2
+19.04.2023 07:15,Panserraikos,Panathinaikos B,2,0
+19.04.2023 06:45,AEK B,Athens Kallithea,1,3
+19.04.2023 06:45,Almopos,Veria,2,0
+19.04.2023 06:45,Apollon Larissa,Apollon Pontou,0,3
+19.04.2023 06:45,Episkopi,Kalamata,1,2
+19.04.2023 06:45,Iraklis 1908,Makedonikos,0,0
+19.04.2023 06:45,Irodotos,Rouf Pao,0,3
+19.04.2023 06:45,Kifisias,Proodeftiki,1,1
+19.04.2023 06:45,Niki Volos,Karditsa,1,1
+19.04.2023 06:45,PAE Chania,Smyrnis,2,0
+19.04.2023 06:45,Thesprotos,AEL Larissa,0,2
+18.04.2023 06:45,Olympiacos B,PAE Egaleo,2,1
+18.04.2023 06:45,Panachaiki,Ilioupoli,2,2
+18.04.2023 06:45,PAOK B,Diagoras,3,3
+13.04.2023 05:45,PAOK B,Veria,1,1
+12.04.2023 09:15,Olympiacos B,Episkopi,3,0
+10.04.2023 07:15,Athens Kallithea,Kifisias,3,3
+10.04.2023 06:45,Apollon Pontou,Niki Volos,2,2
+10.04.2023 06:45,Karditsa,PAOK B,1,2
+10.04.2023 06:45,PAE Egaleo,Irodotos,3,0
+10.04.2023 06:45,Panathinaikos B,Iraklis 1908,1,1
+10.04.2023 06:45,Rouf Pao,AEK B,1,1
+09.04.2023 06:45,AEL Larissa,Apollon Larissa,3,0
+09.04.2023 06:45,Diagoras,Iraklis Larissa,0,0
+09.04.2023 06:45,Proodeftiki,O.F. Ierapetra,1,2
+09.04.2023 06:45,Veria,Thesprotos,3,0
+09.04.2023 05:45,Kalamata,PAE Chania,1,1
+08.04.2023 08:00,Ilioupoli,Olympiacos B,1,0
+08.04.2023 05:45,Smyrnis,Panachaiki,1,0
+07.04.2023 07:15,Makedonikos,Almopos,1,0
+06.04.2023 06:45,AEK B,PAE Egaleo,3,1
+06.04.2023 06:45,Iraklis Larissa,Karditsa,0,2
+06.04.2023 06:45,Kifisias,Rouf Pao,4,1
+05.04.2023 10:30,Olympiacos B,Smyrnis,0,0
+05.04.2023 09:00,Apollon Larissa,Veria,0,3
+05.04.2023 07:15,Iraklis 1908,Panserraikos,2,0
+05.04.2023 06:45,Irodotos,Ilioupoli,0,2
+05.04.2023 06:45,O.F. Ierapetra,Athens Kallithea,0,1
+05.04.2023 06:45,PAE Chania,Episkopi,3,2
+05.04.2023 06:45,Panachaiki,Kalamata,0,2
+05.04.2023 06:45,PAOK B,Apollon Pontou,1,1
+04.04.2023 06:45,Almopos,Panathinaikos B,0,0
+04.04.2023 06:45,Thesprotos,Makedonikos,1,1
+03.04.2023 07:15,PAE Egaleo,Kifisias,0,3
+03.04.2023 06:45,Karditsa,Diagoras,4,1
+02.04.2023 09:00,Makedonikos,Apollon Larissa,3,0
+02.04.2023 06:45,Apollon Pontou,Iraklis Larissa,1,0
+02.04.2023 06:45,Episkopi,Panachaiki,0,0
+02.04.2023 06:45,Rouf Pao,O.F. Ierapetra,1,1
+02.04.2023 06:45,Smyrnis,Irodotos,5,2
+02.04.2023 06:45,Veria,Niki Volos,0,2
+01.04.2023 06:45,Ilioupoli,AEK B,3,1
+01.04.2023 06:45,Kalamata,Olympiacos B,4,0
+01.04.2023 06:45,Panathinaikos B,Thesprotos,1,1
+01.04.2023 05:45,Panserraikos,Almopos,2,0
+31.03.2023 07:15,AEL Larissa,PAOK B,3,2
+31.03.2023 06:45,Athens Kallithea,Proodeftiki,1,0
+29.03.2023 06:00,Irodotos,AEK B,0,4
+27.03.2023 07:15,Kifisias,Ilioupoli,2,0
+26.03.2023 06:45,Diagoras,Apollon Pontou,0,1
+26.03.2023 06:45,Iraklis Larissa,AEL Larissa,0,3
+26.03.2023 06:45,Irodotos,Kalamata,1,2
+26.03.2023 06:45,Niki Volos,Makedonikos,2,0
+26.03.2023 06:45,O.F. Ierapetra,PAE Egaleo,0,0
+26.03.2023 06:45,Panachaiki,PAE Chania,0,0
+26.03.2023 06:45,Thesprotos,Panserraikos,0,2
+25.03.2023 10:00,Apollon Larissa,Panathinaikos B,0,3
+25.03.2023 06:45,AEK B,Smyrnis,0,2
+24.03.2023 08:15,Almopos,Iraklis 1908,2,0
+24.03.2023 07:45,Proodeftiki,Rouf Pao,2,1
+20.03.2023 08:15,Kifisias,Smyrnis,2,3
+19.03.2023 07:45,Apollon Larissa,Panserraikos,0,3
+19.03.2023 07:45,Athens Kallithea,Rouf Pao,3,1
+19.03.2023 07:45,Diagoras,AEL Larissa,1,0
+19.03.2023 07:45,Irodotos,Episkopi,0,1
+19.03.2023 07:45,Karditsa,Apollon Pontou,2,0
+19.03.2023 07:45,O.F. Ierapetra,Ilioupoli,1,1
+19.03.2023 07:45,Proodeftiki,PAE Egaleo,0,2
+19.03.2023 07:45,Thesprotos,Iraklis 1908,1,4
+18.03.2023 07:45,Iraklis Larissa,Veria,2,1
+18.03.2023 07:45,Niki Volos,Panathinaikos B,0,0
+18.03.2023 07:45,Olympiacos B,PAE Chania,2,0
+18.03.2023 06:45,PAOK B,Makedonikos,3,3
+17.03.2023 08:15,AEK B,Kalamata,0,0
+13.03.2023 08:15,Panserraikos,Niki Volos,2,0
+13.03.2023 07:45,Smyrnis,O.F. Ierapetra,1,1
+12.03.2023 07:45,Almopos,Thesprotos,1,1
+12.03.2023 07:45,Ilioupoli,Proodeftiki,1,1
+12.03.2023 07:45,Iraklis 1908,Apollon Larissa,6,0
+12.03.2023 07:45,Makedonikos,Iraklis Larissa,2,3
+12.03.2023 07:45,PAE Chania,Irodotos,0,0
+12.03.2023 07:45,PAE Egaleo,Athens Kallithea,1,1
+12.03.2023 07:45,Veria,Diagoras,0,2
+11.03.2023 07:45,Episkopi,AEK B,1,0
+11.03.2023 07:45,Panachaiki,Olympiacos B,2,1
+11.03.2023 06:45,AEL Larissa,Karditsa,0,1
+10.03.2023 08:15,Kalamata,Kifisias,1,2
+10.03.2023 07:45,Panathinaikos B,PAOK B,1,4
+30.01.2023 08:15,Athens Kallithea,Ilioupoli,3,0
+30.01.2023 07:45,Rouf Pao,PAE Egaleo,1,3
+29.01.2023 07:45,Apollon Larissa,Almopos,0,0
+29.01.2023 07:45,Apollon Pontou,AEL Larissa,0,3
+29.01.2023 07:45,Diagoras,Makedonikos,0,0
+29.01.2023 07:45,Irodotos,Panachaiki,0,2
+29.01.2023 07:45,Karditsa,Veria,1,0
+29.01.2023 07:45,Kifisias,Episkopi,6,0
+29.01.2023 07:45,Niki Volos,Iraklis 1908,1,0
+29.01.2023 07:45,O.F. Ierapetra,Kalamata,0,0
+29.01.2023 07:45,Proodeftiki,Smyrnis,0,3
+28.01.2023 07:45,Iraklis Larissa,Panathinaikos B,1,0
+28.01.2023 06:45,PAOK B,Panserraikos,0,1
+27.01.2023 08:15,AEK B,PAE Chania,0,1
+24.01.2023 07:45,Olympiacos B,Irodotos,4,0
+23.01.2023 08:15,Smyrnis,Athens Kallithea,1,1
+23.01.2023 07:45,Thesprotos,Apollon Larissa,6,0
+22.01.2023 07:45,Almopos,Niki Volos,2,2
+22.01.2023 07:45,Episkopi,O.F. Ierapetra,0,3
+22.01.2023 07:45,Ilioupoli,Rouf Pao,3,1
+22.01.2023 07:45,PAE Chania,Kifisias,0,0
+22.01.2023 07:45,Panathinaikos B,Diagoras,4,2
+22.01.2023 07:45,Panserraikos,Iraklis Larissa,4,0
+22.01.2023 07:45,Veria,Apollon Pontou,2,0
+21.01.2023 07:45,Kalamata,Proodeftiki,1,1
+21.01.2023 07:45,Panachaiki,AEK B,4,0
+21.01.2023 06:45,Iraklis 1908,PAOK B,1,0
+20.01.2023 08:15,Makedonikos,Karditsa,0,0
+17.01.2023 07:45,Proodeftiki,Episkopi,1,0
+16.01.2023 08:15,Athens Kallithea,Kalamata,2,1
+16.01.2023 07:45,Apollon Pontou,Makedonikos,3,1
+15.01.2023 07:45,AEL Larissa,Veria,1,0
+15.01.2023 07:45,Diagoras,Panserraikos,0,1
+15.01.2023 07:45,Iraklis Larissa,Iraklis 1908,0,3
+15.01.2023 07:45,Niki Volos,Thesprotos,2,0
+15.01.2023 07:45,O.F. Ierapetra,PAE Chania,2,0
+15.01.2023 07:45,PAE Egaleo,Ilioupoli,1,1
+15.01.2023 07:45,PAOK B,Almopos,0,1
+15.01.2023 07:45,Rouf Pao,Smyrnis,1,4
+14.01.2023 07:45,Karditsa,Panathinaikos B,0,2
+14.01.2023 06:45,Kifisias,Panachaiki,3,0
+13.01.2023 08:15,AEK B,Olympiacos B,1,2
+09.01.2023 08:15,Iraklis 1908,Diagoras,2,1
+08.01.2023 07:45,Almopos,Iraklis Larissa,0,0
+08.01.2023 07:45,Apollon Larissa,Niki Volos,1,4
+08.01.2023 07:45,Makedonikos,AEL Larissa,1,3
+08.01.2023 07:45,PAE Chania,Proodeftiki,2,0
+08.01.2023 07:45,Panachaiki,O.F. Ierapetra,2,0
+08.01.2023 07:45,Smyrnis,PAE Egaleo,0,0
+08.01.2023 07:45,Thesprotos,PAOK B,0,1
+07.01.2023 07:45,Episkopi,Athens Kallithea,0,3
+07.01.2023 07:45,Kalamata,Rouf Pao,3,0
+07.01.2023 07:45,Panathinaikos B,Apollon Pontou,0,0
+07.01.2023 06:45,Olympiacos B,Kifisias,0,3
+06.01.2023 08:45,Panserraikos,Karditsa,2,0
+05.01.2023 08:15,Veria,Makedonikos,1,2
+04.01.2023 08:15,PAE Egaleo,Kalamata,1,1
+04.01.2023 07:45,AEL Larissa,Panathinaikos B,2,2
+04.01.2023 07:45,Athens Kallithea,PAE Chania,2,1
+04.01.2023 07:45,Diagoras,Almopos,1,1
+04.01.2023 07:45,Ilioupoli,Smyrnis,1,2
+04.01.2023 07:45,Iraklis Larissa,Thesprotos,1,0
+04.01.2023 07:45,Kifisias,Irodotos,3,0
+04.01.2023 07:45,O.F. Ierapetra,Olympiacos B,2,0
+04.01.2023 07:45,Proodeftiki,Panachaiki,0,1
+04.01.2023 07:45,Rouf Pao,Episkopi,3,0
+03.01.2023 07:45,Apollon Pontou,Panserraikos,0,2
+03.01.2023 07:45,Karditsa,Iraklis 1908,1,0
+03.01.2023 07:45,PAOK B,Apollon Larissa,6,1
+22.12.2022 08:15,AEK B,Kifisias,0,1
+22.12.2022 07:45,Almopos,Karditsa,1,0
+22.12.2022 07:45,Apollon Larissa,Iraklis Larissa,0,2
+22.12.2022 07:45,Iraklis 1908,Apollon Pontou,2,0
+22.12.2022 07:45,Irodotos,O.F. Ierapetra,0,1
+22.12.2022 07:45,Kalamata,Ilioupoli,0,1
+22.12.2022 07:45,Niki Volos,PAOK B,2,0
+22.12.2022 07:45,Olympiacos B,Proodeftiki,1,0
+22.12.2022 07:45,PAE Chania,Rouf Pao,4,0
+22.12.2022 07:45,Panachaiki,Athens Kallithea,0,0
+22.12.2022 07:45,Panathinaikos B,Veria,1,2
+22.12.2022 07:45,Panserraikos,AEL Larissa,2,1
+22.12.2022 07:45,Thesprotos,Diagoras,1,4
+22.12.2022 06:00,Episkopi,PAE Egaleo,0,1
+19.12.2022 08:15,Athens Kallithea,Olympiacos B,3,0
+19.12.2022 07:45,Apollon Pontou,Almopos,0,1
+19.12.2022 07:45,Karditsa,Thesprotos,1,0
+19.12.2022 07:45,Rouf Pao,Panachaiki,0,1
+19.12.2022 07:45,Veria,Panserraikos,1,3
+19.12.2022 06:00,Diagoras,Apollon Larissa,5,0
+18.12.2022 12:30,Smyrnis,Kalamata,0,2
+18.12.2022 07:45,AEL Larissa,Iraklis 1908,0,2
+18.12.2022 07:45,Ilioupoli,Episkopi,0,0
+18.12.2022 07:45,Iraklis Larissa,Niki Volos,0,1
+18.12.2022 07:45,PAE Egaleo,PAE Chania,0,0
+18.12.2022 07:45,Proodeftiki,Irodotos,1,0
+17.12.2022 06:00,O.F. Ierapetra,AEK B,3,2
+16.12.2022 08:00,Makedonikos,Panathinaikos B,1,1
+12.12.2022 08:15,AEK B,Proodeftiki,3,0
+12.12.2022 07:45,Episkopi,Smyrnis,0,1
+12.12.2022 07:45,Olympiacos B,Rouf Pao,2,0
+11.12.2022 07:45,Almopos,AEL Larissa,0,2
+11.12.2022 07:45,Apollon Larissa,Karditsa,0,3
+11.12.2022 07:45,Niki Volos,Diagoras,3,0
+11.12.2022 07:45,PAE Chania,Ilioupoli,1,0
+11.12.2022 07:45,Panachaiki,PAE Egaleo,1,0
+11.12.2022 07:45,Panserraikos,Makedonikos,2,0
+11.12.2022 07:45,PAOK B,Iraklis Larissa,3,0
+11.12.2022 07:45,Thesprotos,Apollon Pontou,2,3
+10.12.2022 07:45,Irodotos,Athens Kallithea,1,2
+10.12.2022 06:45,Kifisias,O.F. Ierapetra,1,0
+09.12.2022 08:15,Iraklis 1908,Veria,1,1
+07.12.2022 08:00,Rouf Pao,Kifisias,1,3
+07.12.2022 08:00,Smyrnis,Olympiacos B,1,0
+05.12.2022 08:15,Athens Kallithea,AEK B,3,0
+05.12.2022 08:00,Apollon Pontou,Apollon Larissa,0,1
+04.12.2022 08:00,AEL Larissa,Thesprotos,2,0
+04.12.2022 08:00,Diagoras,PAOK B,2,3
+04.12.2022 08:00,Panathinaikos B,Panserraikos,0,1
+04.12.2022 08:00,Proodeftiki,Kifisias,0,4
+04.12.2022 08:00,Veria,Almopos,1,0
+04.12.2022 07:30,Kalamata,Episkopi,1,0
+03.12.2022 08:00,Karditsa,Niki Volos,1,0
+03.12.2022 08:00,Makedonikos,Iraklis 1908,2,0
+03.12.2022 08:00,PAE Egaleo,Olympiacos B,0,0
+03.12.2022 06:45,Smyrnis,PAE Chania,1,0
+02.12.2022 08:00,Ilioupoli,Panachaiki,2,1
+02.12.2022 08:00,Rouf Pao,Irodotos,1,2
+28.11.2022 08:15,Kifisias,Athens Kallithea,2,0
+28.11.2022 08:00,O.F. Ierapetra,Proodeftiki,2,1
+27.11.2022 08:00,Almopos,Makedonikos,0,0
+27.11.2022 08:00,Iraklis Larissa,Diagoras,0,1
+27.11.2022 08:00,Irodotos,PAE Egaleo,0,1
+27.11.2022 08:00,Niki Volos,Apollon Pontou,3,0
+27.11.2022 08:00,PAE Chania,Kalamata,1,0
+27.11.2022 08:00,Panachaiki,Smyrnis,0,0
+27.11.2022 08:00,Thesprotos,Veria,1,1
+26.11.2022 08:00,AEK B,Rouf Pao,3,1
+26.11.2022 08:00,Apollon Larissa,AEL Larissa,0,2
+26.11.2022 08:00,Olympiacos B,Ilioupoli,0,1
+26.11.2022 06:45,PAOK B,Karditsa,2,0
+25.11.2022 08:15,Iraklis 1908,Panathinaikos B,2,3
+23.11.2022 08:00,Rouf Pao,Proodeftiki,0,1
+21.11.2022 08:15,Athens Kallithea,O.F. Ierapetra,2,1
+21.11.2022 08:00,Karditsa,Iraklis Larissa,2,0
+21.11.2022 08:00,Panathinaikos B,Almopos,1,1
+20.11.2022 08:00,Apollon Pontou,PAOK B,1,2
+20.11.2022 08:00,Episkopi,PAE Chania,0,2
+20.11.2022 08:00,Ilioupoli,Irodotos,3,0
+20.11.2022 08:00,Makedonikos,Thesprotos,2,0
+20.11.2022 08:00,PAE Egaleo,AEK B,1,1
+20.11.2022 08:00,Veria,Apollon Larissa,1,2
+19.11.2022 08:00,AEL Larissa,Niki Volos,1,0
+19.11.2022 06:45,Panserraikos,Iraklis 1908,0,2
+18.11.2022 08:15,Kalamata,Panachaiki,0,0
+14.11.2022 08:15,Proodeftiki,Athens Kallithea,0,1
+14.11.2022 08:00,Almopos,Panserraikos,0,1
+13.11.2022 08:45,Kifisias,PAE Egaleo,2,0
+13.11.2022 08:00,Diagoras,Karditsa,0,2
+13.11.2022 08:00,Iraklis Larissa,Apollon Pontou,0,1
+13.11.2022 08:00,Irodotos,Smyrnis,0,1
+13.11.2022 08:00,O.F. Ierapetra,Rouf Pao,4,0
+13.11.2022 08:00,Panachaiki,Episkopi,2,1
+13.11.2022 08:00,Thesprotos,Panathinaikos B,2,2
+12.11.2022 08:00,AEK B,Ilioupoli,0,0
+12.11.2022 08:00,Apollon Larissa,Makedonikos,1,0
+12.11.2022 06:45,Olympiacos B,Kalamata,0,2
+11.11.2022 08:15,PAOK B,AEL Larissa,1,0
+11.11.2022 08:00,Niki Volos,Veria,1,1
+07.11.2022 08:15,Panathinaikos B,Apollon Larissa,5,2
+06.11.2022 08:00,AEL Larissa,Iraklis Larissa,3,0
+06.11.2022 08:00,Apollon Pontou,Diagoras,0,1
+06.11.2022 08:00,Ilioupoli,Kifisias,0,2
+06.11.2022 08:00,Iraklis 1908,Almopos,1,1
+06.11.2022 08:00,Makedonikos,Niki Volos,2,0
+06.11.2022 08:00,PAE Chania,Panachaiki,1,2
+06.11.2022 08:00,PAE Egaleo,O.F. Ierapetra,0,2
+06.11.2022 06:45,Kalamata,Irodotos,3,0
+05.11.2022 08:00,Episkopi,Olympiacos B,1,1
+05.11.2022 08:00,Panserraikos,Thesprotos,1,1
+05.11.2022 06:45,Smyrnis,AEK B,1,0
+04.11.2022 08:15,Veria,PAOK B,1,1

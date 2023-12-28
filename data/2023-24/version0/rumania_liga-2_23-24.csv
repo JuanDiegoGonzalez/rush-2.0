@@ -1,0 +1,99 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+16.09.2023 03:00,CSC Dumbravita,Tunari,6,1
+16.09.2023 03:00,Csikszereda M. Ciuc,Mioveni,0,0
+16.09.2023 03:00,CSM Slatina,Selimbar,0,0
+16.09.2023 03:00,Gloria Buzau,Alexandria,1,0
+16.09.2023 03:00,Hunedoara,CSM Resita,2,0
+16.09.2023 03:00,Progresul Spartac,Viitorul Tg. Jiu,1,2
+16.09.2023 03:00,Unirea Slobozia,Metaloglobus Bucharest,2,0
+14.09.2023 12:30,Concordia,Steaua Bucuresti,0,0
+12.09.2023 03:00,Progresul Spartac,CSC Dumbravita,1,3
+05.09.2023 09:30,Selimbar,Steaua Bucuresti,3,2
+03.09.2023 03:00,Chindia Targoviste,Unirea Slobozia,0,1
+03.09.2023 03:00,Metaloglobus Bucharest,FC Arges,1,1
+03.09.2023 03:00,Mioveni,CSC Dumbravita,0,1
+03.09.2023 03:00,Tunari,Ceahlaul,0,1
+02.09.2023 04:00,Unirea Dej,Gloria Buzau,2,4
+02.09.2023 03:00,Alexandria,CSM Slatina,0,1
+02.09.2023 03:00,CSM Resita,Progresul Spartac,0,0
+02.09.2023 03:00,Hunedoara,Concordia,2,2
+02.09.2023 03:00,Viitorul Tg. Jiu,Csikszereda M. Ciuc,1,1
+27.08.2023 03:00,Progresul Spartac,Hunedoara,1,2
+27.08.2023 03:00,Steaua Bucuresti,Alexandria,1,1
+26.08.2023 03:00,Ceahlaul,Mioveni,0,1
+26.08.2023 03:00,Concordia,Selimbar,0,1
+26.08.2023 03:00,CSC Dumbravita,Viitorul Tg. Jiu,1,1
+26.08.2023 03:00,Csikszereda M. Ciuc,CSM Resita,1,1
+26.08.2023 03:00,CSM Slatina,Unirea Dej,1,2
+26.08.2023 03:00,FC Arges,Chindia Targoviste,0,2
+26.08.2023 03:00,Gloria Buzau,Metaloglobus Bucharest,1,0
+26.08.2023 03:00,Unirea Slobozia,Tunari,3,1
+22.08.2023 11:00,Chindia Targoviste,Gloria Buzau,1,1
+20.08.2023 04:00,Unirea Dej,Steaua Bucuresti,2,6
+20.08.2023 03:00,Mioveni,Unirea Slobozia,1,1
+20.08.2023 03:00,Tunari,FC Arges,1,1
+19.08.2023 04:00,Hunedoara,Csikszereda M. Ciuc,2,0
+19.08.2023 03:00,Alexandria,Selimbar,0,1
+19.08.2023 03:00,CSM Resita,CSC Dumbravita,2,1
+19.08.2023 03:00,Metaloglobus Bucharest,CSM Slatina,1,1
+19.08.2023 03:00,Progresul Spartac,Concordia,0,6
+19.08.2023 03:00,Viitorul Tg. Jiu,Ceahlaul,0,2
+14.08.2023 09:30,FC Arges,Mioveni,0,0
+13.08.2023 04:00,Ceahlaul,CSM Resita,4,0
+12.08.2023 04:00,CSM Slatina,Chindia Targoviste,0,0
+12.08.2023 04:00,Steaua Bucuresti,Metaloglobus Bucharest,1,1
+12.08.2023 03:00,Concordia,Alexandria,0,1
+12.08.2023 03:00,CSC Dumbravita,Hunedoara,0,0
+12.08.2023 03:00,Csikszereda M. Ciuc,Progresul Spartac,3,0
+12.08.2023 03:00,Gloria Buzau,Tunari,2,1
+12.08.2023 03:00,Selimbar,Unirea Dej,2,0
+12.08.2023 03:00,Unirea Slobozia,Viitorul Tg. Jiu,1,1
+08.08.2023 13:00,Chindia Targoviste,Steaua Bucuresti,1,1
+08.08.2023 10:30,Mioveni,Gloria Buzau,0,0
+06.08.2023 04:00,Hunedoara,Ceahlaul,2,1
+05.08.2023 03:00,Csikszereda M. Ciuc,Concordia,0,3
+05.08.2023 03:00,CSM Resita,Unirea Slobozia,0,1
+05.08.2023 03:00,Metaloglobus Bucharest,Selimbar,0,1
+05.08.2023 03:00,Tunari,CSM Slatina,1,3
+05.08.2023 03:00,Unirea Dej,Alexandria,1,0
+05.08.2023 03:00,Viitorul Tg. Jiu,FC Arges,0,0

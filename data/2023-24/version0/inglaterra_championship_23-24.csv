@@ -1,0 +1,101 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+02.09.2023 09:00,Coventry,Watford,3,3
+02.09.2023 09:00,Ipswich,Cardiff,3,2
+02.09.2023 09:00,Leeds Utd,Sheffield Wed,0,0
+02.09.2023 09:00,Leicester,Hull,0,1
+02.09.2023 09:00,Middlesbrough,QPR,0,2
+02.09.2023 09:00,Plymouth,Blackburn,3,0
+02.09.2023 09:00,Rotherham,Norwich,2,1
+02.09.2023 09:00,Stoke,Preston,0,2
+02.09.2023 09:00,West Brom,Huddersfield,1,2
+02.09.2023 06:30,Birmingham,Millwall,1,1
+02.09.2023 06:30,Sunderland,Southampton,5,0
+02.09.2023 06:30,Swansea,Bristol City,1,2
+27.08.2023 06:00,Watford,Blackburn,0,1
+26.08.2023 09:00,Birmingham,Plymouth,2,1
+26.08.2023 09:00,Cardiff,Sheffield Wed,2,1
+26.08.2023 09:00,Coventry,Sunderland,0,0
+26.08.2023 09:00,Huddersfield,Norwich,0,4
+26.08.2023 09:00,Ipswich,Leeds Utd,3,4
+26.08.2023 09:00,Millwall,Stoke,1,0
+26.08.2023 09:00,Preston,Swansea,2,1
+26.08.2023 09:00,Rotherham,Leicester,1,2
+26.08.2023 09:00,Southampton,QPR,2,1
+26.08.2023 09:00,West Brom,Middlesbrough,4,2
+25.08.2023 13:30,Hull,Bristol City,1,1
+20.08.2023 06:00,Norwich,Millwall,3,1
+19.08.2023 09:00,Blackburn,Hull,1,2
+19.08.2023 09:00,Bristol City,Birmingham,0,2
+19.08.2023 09:00,Leicester,Cardiff,2,1
+19.08.2023 09:00,Middlesbrough,Huddersfield,1,1
+19.08.2023 09:00,QPR,Ipswich,0,1
+19.08.2023 09:00,Sheffield Wed,Preston,0,1
+19.08.2023 09:00,Stoke,Watford,1,0
+19.08.2023 09:00,Sunderland,Rotherham,2,1
+19.08.2023 09:00,Swansea,Coventry,1,1
+19.08.2023 06:30,Plymouth,Southampton,1,2
+18.08.2023 14:00,Leeds Utd,West Brom,1,1
+12.08.2023 09:00,Birmingham,Leeds Utd,1,0
+12.08.2023 09:00,Cardiff,QPR,1,2
+12.08.2023 09:00,Huddersfield,Leicester,0,1
+12.08.2023 09:00,Hull,Sheffield Wed,4,2
+12.08.2023 09:00,Ipswich,Stoke,2,0
+12.08.2023 09:00,Millwall,Bristol City,0,1
+12.08.2023 09:00,Preston,Sunderland,2,1
+12.08.2023 09:00,Rotherham,Blackburn,2,2
+12.08.2023 09:00,Southampton,Norwich,4,4
+12.08.2023 09:00,Watford,Plymouth,0,0
+12.08.2023 09:00,West Brom,Swansea,3,2
+12.08.2023 06:30,Coventry,Middlesbrough,3,0
+06.08.2023 11:00,Sunderland,Ipswich,1,2
+06.08.2023 08:30,Leeds Utd,Cardiff,2,2
+06.08.2023 06:00,Leicester,Coventry,2,1
+05.08.2023 09:00,Blackburn,West Brom,2,1
+05.08.2023 09:00,Bristol City,Preston,1,1
+05.08.2023 09:00,Middlesbrough,Millwall,0,1
+05.08.2023 09:00,Norwich,Hull,2,1
+05.08.2023 09:00,Plymouth,Huddersfield,3,1
+05.08.2023 09:00,Stoke,Rotherham,4,1
+05.08.2023 09:00,Swansea,Birmingham,1,1
+05.08.2023 09:00,Watford,QPR,4,0
+04.08.2023 14:00,Sheffield Wed,Southampton,1,2

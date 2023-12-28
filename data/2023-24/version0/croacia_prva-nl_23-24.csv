@@ -1,0 +1,65 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+04.09.2023 09:30,Dubrava,Dugopolje,1,3
+02.09.2023 09:30,Bijelo Brdo,Croatia Zmijavci,0,0
+02.09.2023 09:30,Jarun,Sesvete,2,0
+02.09.2023 09:30,Solin,Orijent,4,1
+02.09.2023 09:30,Vukovar 1991,Cibalia,3,1
+01.09.2023 11:00,Sibenik,Zrinski Jurjevac,3,0
+28.08.2023 10:00,Sesvete,Dubrava,0,1
+26.08.2023 12:00,Sibenik,Bijelo Brdo,3,0
+26.08.2023 10:00,Cibalia,Jarun,3,1
+26.08.2023 10:00,Orijent,Vukovar 1991,0,1
+26.08.2023 10:00,Zrinski Jurjevac,Solin,3,0
+25.08.2023 10:00,Dugopolje,Croatia Zmijavci,1,1
+21.08.2023 10:30,Jarun,Orijent,4,2
+20.08.2023 10:30,Croatia Zmijavci,Sesvete,0,0
+19.08.2023 10:30,Bijelo Brdo,Dugopolje,1,1
+19.08.2023 10:30,Dubrava,Cibalia,1,1
+19.08.2023 10:30,Solin,Sibenik,2,3
+18.08.2023 10:30,Vukovar 1991,Zrinski Jurjevac,1,2
+14.08.2023 10:30,Zrinski Jurjevac,Jarun,2,0
+12.08.2023 10:30,Cibalia,Croatia Zmijavci,1,0
+12.08.2023 10:30,Orijent,Dubrava,1,1
+12.08.2023 10:30,Sesvete,Dugopolje,0,1
+12.08.2023 10:30,Solin,Bijelo Brdo,0,0
+11.08.2023 12:00,Sibenik,Vukovar 1991,3,0

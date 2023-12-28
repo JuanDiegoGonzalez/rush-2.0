@@ -1,0 +1,93 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+15.09.2023 12:00,Hillerod,B.93,0,1
+15.09.2023 12:00,Hobro,Horsens,0,1
+15.09.2023 12:00,Sonderjyske,Aalborg,1,1
+14.09.2023 12:00,Koge,Kolding,0,1
+04.09.2023 12:00,Naestved,Koge,3,3
+03.09.2023 08:00,Aalborg,Kolding,3,1
+03.09.2023 07:00,Helsingor,Hobro,1,3
+01.09.2023 12:00,Hillerod,Sonderjyske,2,2
+01.09.2023 12:00,Horsens,B.93,0,0
+01.09.2023 12:00,Vendsyssel,Fredericia,0,2
+28.08.2023 11:30,Hobro,Sonderjyske,1,2
+27.08.2023 08:00,Aalborg,Hillerod,3,0
+27.08.2023 06:00,Koge,Fredericia,0,0
+26.08.2023 07:00,Kolding,Helsingor,4,0
+26.08.2023 06:00,B.93,Vendsyssel,0,5
+25.08.2023 12:00,Horsens,Naestved,3,0
+24.08.2023 12:00,Hobro,Aalborg,1,2
+23.08.2023 12:00,Helsingor,Hillerod,1,6
+23.08.2023 12:00,Sonderjyske,Koge,4,0
+23.08.2023 12:00,Vendsyssel,Kolding,2,1
+22.08.2023 12:00,Fredericia,Horsens,2,0
+22.08.2023 12:00,Naestved,B.93,0,1
+20.08.2023 06:00,Koge,Hobro,0,2
+19.08.2023 06:00,Hillerod,Vendsyssel,2,0
+18.08.2023 12:00,B.93,Fredericia,0,5
+18.08.2023 12:00,Horsens,Helsingor,3,1
+18.08.2023 12:00,Kolding,Sonderjyske,1,3
+18.08.2023 11:30,Aalborg,Naestved,1,1
+13.08.2023 08:00,Hobro,Vendsyssel,0,1
+13.08.2023 06:00,Naestved,Kolding,1,2
+12.08.2023 06:30,Sonderjyske,Horsens,5,0
+11.08.2023 12:00,Helsingor,Aalborg,1,1
+11.08.2023 12:00,Koge,B.93,1,7
+11.08.2023 11:30,Fredericia,Hillerod,3,2
+06.08.2023 08:00,Aalborg,Fredericia,4,0
+06.08.2023 06:00,Naestved,Sonderjyske,1,4
+05.08.2023 08:00,B.93,Kolding,1,1
+05.08.2023 07:00,Vendsyssel,Helsingor,2,1
+04.08.2023 12:00,Hillerod,Hobro,0,1
+04.08.2023 12:00,Horsens,Koge,2,0
+30.07.2023 07:00,Helsingor,B.93,2,0
+29.07.2023 07:00,Aalborg,Horsens,1,0
+29.07.2023 07:00,Kolding,Hillerod,2,1
+28.07.2023 12:00,Hobro,Naestved,3,2
+28.07.2023 12:00,Koge,Vendsyssel,3,1
+28.07.2023 12:00,Sonderjyske,Fredericia,1,3
+23.07.2023 07:00,Fredericia,Hobro,0,2
+23.07.2023 07:00,Helsingor,Naestved,2,1
+23.07.2023 07:00,Kolding,Horsens,2,1
+22.07.2023 07:00,B.93,Aalborg,0,3
+21.07.2023 12:00,Hillerod,Koge,0,4
+21.07.2023 12:00,Vendsyssel,Sonderjyske,1,1
